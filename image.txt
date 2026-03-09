@@ -1,0 +1,55 @@
+Hình 1.1: AI – Trí tuệ nhân tạo.
+Hình 1.2: Sơ đồ biểu diễn tri thức.
+Hình 1.3: Học máy có giám sát và học máy không giám sát.
+Hình 1.4: Quy trình vận hành của ML.
+Hình 1.5: Mô hình học có giám sát.
+Hình 1.6: Mô hình học không giám sát.
+Hình 1.7: Mô hình học máy bán giám sát.
+Hình 1.8: Mô hình thuật toán Isolation Forest.
+Hình 1.9: Mô hình thuật toán Random Forest.
+Hình 1.10: Mô hình thuật toán Bagging.
+Hình 1.11: Cấu trúc cơ chế Virtual DOM.
+Hình 1.12: Cấu trúc components trong React.
+Hình 1.13: Ngôn ngữ lập trình Java.
+Hình 1.14: Quy trình biên dịch mã nguồn.
+Hình 1.15: Các phiên bản của Oracle.
+Hình 1.16: Kiến trúc của Oracle.
+Hình 1.17: Cấu trúc của Oracle.
+Hình 2.1: Sơ đồ chức năng chương trình quản lý chi phí thuê truyền dẫn.
+Hình 2.2: Lưu đồ chương trình quản lý chi phí truyền dẫn.
+Hình 2.3: Sơ đồ usecase chức năng quản lý hợp đồng.
+Hình 2.4: Sơ đồ chức năng quản lý hợp đồng thuê truyền dẫn.
+Hình 2.5: Sơ đồ usecase chức năng thanh lý hợp đồng.
+Hình 2.6: Chức năng thanh lý hợp đồng thuê truyền dẫn.
+Hình 2.7: Sơ đồ usecase chức năng quản lý phụ lục hợp đồng.
+Hình 2.8: Chức năng cập nhật thông tin phụ lục hợp đồng cho hợp đồng thuê truyền dẫn.
+Hình 2.9: Sơ đồ usecase chức năng thanh toán hồ sơ truyền dẫn.
+Hình 2.10: Chức năng thanh toán hồ sơ truyền dẫn.
+Hình 2.11: Minh hoạ quy trình xử lý dữ liệu.
+Hình 2.12: Minh hoạ biểu đồ mức độ quan trọng của các biến.
+Hình 2.13. Biểu đồ Elbow xác định số cụm K (minh họa).
+Hình 2.14. Biểu đồ phân bố các cụm trạm phát sóng (minh họa).
+Hình 2.15. Minh họa các điểm dữ liệu bất thường được phát hiện bởi Isolation Forest.
+Hình 2.16: Sơ đồ tích hợp mô hình máy học vào hệ thống quản lý (minh họa).
+Hình 3.1: Template import hợp đồng thuê truyền dẫn.
+Hình 3.2: Thiết kế UI cho trường hợp thêm mới hợp đồng trực tiếp.
+Hình 3.3: UI đăng ký chi phí hàng tháng.
+Hình 3.4: UI xem chi phí phân bổ tỉnh.
+Hình 3.5: UI chỉnh sửa chi phí phân bổ tỉnh
+Hình 3.6: UI màn hình thanh lý hợp đồng.
+Hình 3.7: Chức năng thanh lý hợp đồng thuê truyền dẫn.
+Hình 3.8: Cập nhật phụ lục hợp đồng.
+Hình 3.9: UI màn hình khởi tạo hồ sơ thanh toán.
+Hình 3.10: Màn hình thêm nghiệm thu.
+Hình 3.11: Màn hình nhập hoá đơn.
+Hình 3.12: UI màn hình thanh toán hồ sơ thanh toán nhiều lần.
+Hình 3.13: Chức năng tra cứu hồ sơ truyền dẫn.
+
+
+-----------
+Sơ đồ 2.1: Minh hoạ quy trình xử lý dữ liệu.
+Sơ đồ 2.2: Minh hoạ biểu đồ mức độ quan trọng của các biến.
+Sơ đồ 2.3. Biểu đồ Elbow xác định số cụm K (minh họa).
+Sơ đồ 2.4. Biểu đồ phân bố các cụm trạm phát sóng (minh họa).
+Sơ đồ 2.5. Minh họa các điểm dữ liệu bất thường được phát hiện bởi Isolation Forest.
+Sơ đồ 2.6: Sơ đồ tích hợp mô hình máy học vào hệ thống quản lý (minh họa).
